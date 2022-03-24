@@ -15,7 +15,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [API da Riot Games](https://developer.riotgames.com/apis) - APIs da riot utilizadas no projeto.
 
 ## 💻 Site
-Para testar ou ver como está ficando acesse [Pokemon](https://ronaldo3030.github.io/pokemon-with-pokeapi//)
+Para testar ou ver como está ficando acesse [You League](https://ronaldo3030.github.io/search-you-api-lol/)
 
 ## ✒️ Autores
 
