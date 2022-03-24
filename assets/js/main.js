@@ -1,4 +1,4 @@
-const apiKey = 'RGAPI-1d493604-a50d-464f-a300-dab5ad69c938'
+const apiKey = 'KEY LOL'
 
 // TRAZ A ULTIMA VERSÃO DO JOGO
 let version
