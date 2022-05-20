@@ -1,5 +1,5 @@
 # You League
-Um dos projetos que estou utilizando para estudar mais sobre requisições de API's com JS vanilla.<br>
+Um projeto que estou utilizando para estudar mais sobre requisições de API's com JS vanilla.<br>
 
 <a href="https://github.com/Ronaldo3030/search-you-api-lol"><img alt="GitHub license" src="https://img.shields.io/github/license/Ronaldo3030/pokemon-with-pokeapi?style=plastic"></a> <a href="https://github.com/Ronaldo3030/pokemon-with-pokeapi/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Ronaldo3030/pokemon-with-pokeapi?style=plastic"></a> <a href="https://github.com/Ronaldo3030/pokemon-with-pokeapi/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Ronaldo3030/pokemon-with-pokeapi?style=plastic"></a> <a href="https://github.com/Ronaldo3030/pokemon-with-pokeapi/stargazers"><img alt="GitHub status" src="https://img.shields.io/badge/status-building-orange"></a>
 
